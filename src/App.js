@@ -18,9 +18,9 @@ function App() {
     <Router>
       <TopBar />
       <Switch>
-        <Route exact path="/">
-          <Home />
-        </Route>
+        <Route exact path="/" component={Home}/>
+         {/* <Home />
+        </Route>*/}
         <Route path="/register">
           {user ? <Home/>: <Register/>}
         </Route>

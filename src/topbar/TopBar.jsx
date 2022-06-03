@@ -13,10 +13,10 @@ export default function TopBar() {
         </div>
         <div className="topCenter">
             <ul className="topList">
-                <li className="topListItem"><Link className="link" to="/">HOME</Link></li>
-                <li className="topListItem"><Link className="link" to="/">ABOUT</Link></li>
-                <li className="topListItem"><Link className="link" to="/">CONTACT</Link></li>
-                <li className="topListItem"><Link className="link" to="/write">WRITE</Link></li>
+                <li className="topListItem"><a className="link" href="/">HOME</a></li>
+                <li className="topListItem"><a className="link" href="/">ABOUT</a></li>
+                <li className="topListItem"><a className="link" href="/">CONTACT</a></li>
+                <li className="topListItem"><a className="link" href="/write">WRITE</a></li>
                 <li className="topListItem">{user && "LOGOUT"}</li>
             </ul>
         </div>
@@ -25,8 +25,8 @@ export default function TopBar() {
         className="topImage"
         src= {img} alt="" />) : (
           <ul className="topList">
-            <li className="topListItem"><Link className="link" to="/login">LOGIN</Link></li>
-            <li className="topListItem"><Link className="link" to="/register">REGISTER</Link></li>
+            <li className="topListItem"><a className="link" href="/login">LOGIN</a></li>
+            <li className="topListItem"><a className="link" href="/register">REGISTER</a></li>
           </ul>
         )}
         <i className=" topSearchIcon fa-solid fa-magnifying-glass"></i>
