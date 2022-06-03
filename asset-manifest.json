@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Blog-using-React-JS/static/css/main.d898d4ad.css",
+    "main.js": "/Blog-using-React-JS/static/js/main.ae5cd312.js",
+    "static/media/mtfuji.jpg": "/Blog-using-React-JS/static/media/mtfuji.f4d882e41d6da2a0e61f.jpg",
+    "static/media/plum.jpg": "/Blog-using-React-JS/static/media/plum.b4ceb8d3ed0ad8964294.jpg",
+    "static/media/sakura.jpg": "/Blog-using-React-JS/static/media/sakura.b6bc41c99afdd2cda16d.jpg",
+    "static/media/parrot.jpg": "/Blog-using-React-JS/static/media/parrot.743208e832a7bbef1efe.jpg",
+    "static/media/osaka.jpg": "/Blog-using-React-JS/static/media/osaka.2864da13184a3c686ba0.jpg",
+    "static/media/water.jpg": "/Blog-using-React-JS/static/media/water.87b0a219e8b4f143e749.jpg",
+    "static/media/stone.jpg": "/Blog-using-React-JS/static/media/stone.4ece222385ddf8f46c78.jpg",
+    "static/media/Katha.jpeg": "/Blog-using-React-JS/static/media/Katha.82ebfde7c2cda41ed19b.jpeg",
+    "index.html": "/Blog-using-React-JS/index.html",
+    "main.d898d4ad.css.map": "/Blog-using-React-JS/static/css/main.d898d4ad.css.map",
+    "main.ae5cd312.js.map": "/Blog-using-React-JS/static/js/main.ae5cd312.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d898d4ad.css",
+    "static/js/main.ae5cd312.js"
+  ]
+}
